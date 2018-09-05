@@ -1,0 +1,8 @@
+name: 'Webform Rules'
+core: 8.x
+description: 'Adds rules integration for webform submissions.'
+package: Webform
+dependencies:
+  - webform
+  - rules
+type: module
